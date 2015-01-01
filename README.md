@@ -1,4 +1,4 @@
-blog
+blog de Yo Gis
 ====
 
-blog
+http://yogis.alwaysdata.net
