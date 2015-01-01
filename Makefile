@@ -15,7 +15,7 @@ FTP_TARGET_DIR=../output/
 SSH_HOST=ssh.alwaysdata.com
 SSH_PORT=22
 SSH_USER=yogis
-SSH_TARGET_DIR=/home/yogis/projects/output/
+SSH_TARGET_DIR=/home/yogis/projects/blog/output/
 
 S3_BUCKET=my_s3_bucket
 
