@@ -1,6 +1,4 @@
 title:About
-About
-=
 
 ![Alt Text]({face}/../../images/face.jpg)
 
