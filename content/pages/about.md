@@ -1,4 +1,5 @@
-About
+title:About
+About me
 =
 
 .. raw:: html
