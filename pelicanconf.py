@@ -12,6 +12,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
+STATIC_PATHS = ['images']
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -19,11 +21,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('YoGis Production', 'http://youtube.com/'),
+         ('YoGis Record', 'https://soundcloud.com/yogis-record'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
