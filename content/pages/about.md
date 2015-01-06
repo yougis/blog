@@ -12,9 +12,15 @@ About
    :alt: face
    :width: 200 px
    :align: right
+ 
 
-* Mainly involved in Web and GIS Open Source projects
-* ``contact`` @ ``hugoroussaffa`` . ``info``
+
+----------
+``contact`` @ ``hugoroussaffa`` . ``info``
+
+
+----------
+
 
 Favorite Technologies
 -
@@ -24,23 +30,11 @@ Favorite Technologies
 * PostGIS | Leaflet
 * Qgis | ArcGis suite | Mapinfo | Elyx office
 
-Check out `some of my projects <https://github.com/leplatrem>`_, *most notably* :
 
-* **Subtivals**, a tool to project subtitles in movie festivals, used worldwide and mostly dedicated to captions for the hard of hearing community. (C++, Qt, packaged for Ubuntu, Mac OS and Windows) http://subtivals.org ;
-* `django-leaflet <https://github.com/makinacorpus/django-leaflet>`_ and `django-geojson <https://github.com/makinacorpus/django-geojson>`_, both focused on simplifying Web mapping for Django developers ;
-* `landez <http://blog.mathieu-leplatre.info/landez-introducing-new-features-of-our-tiles-toolbox.html>`_ (*Python*),
-  `some Leaflet plugins <http://leafletjs.com/plugins.html>`_ (*Javascript*) and
-  `some <https://github.com/makinacorpus/django-screamshot>`_
-  `Django <https://github.com/makinacorpus/django-appypod>`_ 
-  `apps <https://github.com/makinacorpus/django-mbtiles>`_ (*Django*)
 
-Talks
--
+
 Publications
 -
-
-
-
 
 Specialities
 -
@@ -52,11 +46,6 @@ Specialities
 
 Interests
 -
-
-* Technologies as human and social tools
-* Free Culture and copyleft
-* Independant and decentralized Media
-* Nature, Hiking, Travel & Photography
 
 
 Education
