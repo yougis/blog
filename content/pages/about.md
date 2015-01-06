@@ -3,7 +3,15 @@ About
 
 .. raw:: html
 
+    <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <div style="float: right;">
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
 
+.. image:: /images/face.jpg
+   :alt: face
+   :width: 200 px
+   :align: right
 
 * Mainly involved in Web and GIS Open Source projects
 * ``contact`` @ ``hugoroussaffa`` . ``info``
@@ -18,7 +26,6 @@ Favorite Technologies
 
 Check out `some of my projects <https://github.com/leplatrem>`_, *most notably* :
 
-* **Daybed**, a generic storage and validation Web API, providing “database-as-a-service”. (Pyramid, CouchDB, REST) http://daybed.rtfd.org ;
 * **Subtivals**, a tool to project subtitles in movie festivals, used worldwide and mostly dedicated to captions for the hard of hearing community. (C++, Qt, packaged for Ubuntu, Mac OS and Windows) http://subtivals.org ;
 * `django-leaflet <https://github.com/makinacorpus/django-leaflet>`_ and `django-geojson <https://github.com/makinacorpus/django-geojson>`_, both focused on simplifying Web mapping for Django developers ;
 * `landez <http://blog.mathieu-leplatre.info/landez-introducing-new-features-of-our-tiles-toolbox.html>`_ (*Python*),
