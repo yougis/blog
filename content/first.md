@@ -1,5 +1,5 @@
 Title: Vanuatu
 Date: 2014-12-20 10:20
-Category: Voyage
+Category: Voyages
 
-Notre voyage au vanuatu !
+Notre voyage de 2 mois au Vanuatu !
