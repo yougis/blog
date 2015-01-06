@@ -1,6 +1,5 @@
 About
 #####
-
 .. raw:: html
 
     <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
