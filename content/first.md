@@ -4,3 +4,4 @@ Category: Voyages
 
 Notre voyage de 2 mois au Vanuatu !
 Equipé d'une tente light et de trois slips nous nous sommes aventurés sur l'île de Tanna, l'île de Santos et l'île d'Ambrym.
+Pour passer d'une île à l'autre nous avons choisi de monter dans des cargots. 
