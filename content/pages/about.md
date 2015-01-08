@@ -1,8 +1,5 @@
 title:About
 Project Manager – GIS Administrator and Spatial Analyst
-![Alt Text]({face}/../../images/face.jpg)
-
-
 ----------
 
 
