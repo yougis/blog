@@ -3,7 +3,7 @@ Project Manager – GIS Administrator and Spatial Analyst
 ----------
 
 
-![Alt Text]({face}/../../images/face.jpg)
+![Alt Text]({face_serious}/../../images/face.jpg)
 
 
 `yogis`@`alwaysdata`.`net`
@@ -57,6 +57,10 @@ Education
 
 * Level 7 : [Master's degree](http://en.wikipedia.org/Master's_degree#France) in Territorial Science (Human Geography), University of Paris Diderot (Paris VII) University of Paris Sorbone (Paris I) and National School of Geographic Science (ENSG).
 
+Languages
+-
+* Native French 
+* Basic English and technical in geomatic
 
 Others
 -
