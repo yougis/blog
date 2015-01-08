@@ -4,7 +4,7 @@ Category: Voyages
 authors: Hugo Roussaffa, Claire Cousergue
 summary:  Aller à la rencontre de la culture Melanesienne du Vanuatu en sac à dos sur l'île de Tanna, d'Epiritu Santos et d'Ambrym est une experience innoubliable.
 
-Chacun son sacs !
+Chacun son sac !
 =
 Surtout ne pas dépasser 10 kg en equipment par sac et garder de la place pour les repas et l'eau potable (plastic wata).
 
