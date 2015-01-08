@@ -1,5 +1,5 @@
 Title: Voyager light pendant 2 mois au Vanuatu
-Date: 2014-12-20 10:20
+Date: 2015-01-01 10:20
 Category: Voyages
 authors: Hugo Roussaffa, Claire Cousergue
 summary:  Aller à la rencontre de la culture Melanesienne du Vanuatu en sac à dos sur l'île de Tanna, d'Epiritu Santos et d'Ambrym est une experience innoubliable.
