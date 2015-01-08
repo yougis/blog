@@ -3,7 +3,7 @@ Project Manager – GIS Administrator and Spatial Analyst
 ----------
 
 
-![Alt Text]({face_serious}/../../images/face.jpg)
+![Alt Text]({face_serious}/../../images/face_serious.jpg)
 
 
 `yogis`@`alwaysdata`.`net`
