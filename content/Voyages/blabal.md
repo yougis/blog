@@ -2,6 +2,6 @@ Title: blabla
 Date: 2015-01-09 10:20
 Category: Voyages
 authors: Hugo Roussaffa, Claire Cousergue
-summary: fkjhgjhdkhgc
+summary: sommaire
 
-nouv
+contenu
