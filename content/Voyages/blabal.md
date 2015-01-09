@@ -4,4 +4,4 @@ Category: Voyages
 authors: Hugo Roussaffa, Claire Cousergue
 summary: sommaire
 
-contenu
+contenu nouveau
