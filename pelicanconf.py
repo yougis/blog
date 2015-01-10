@@ -11,7 +11,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
-THEME_STATIC_PATHS = ['pure-single']
+THEME = "pure-single"
 STATIC_PATHS = ['images']
 
 # Feed generation is usually not desired when developing
