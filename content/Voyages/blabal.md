@@ -5,5 +5,5 @@ authors: Hugo Roussaffa, Claire Cousergue
 summary: sommaire
 
 
-contenu nouveau 1000
+contenu
 
