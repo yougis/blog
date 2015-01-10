@@ -68,3 +68,5 @@ Others
 * Proud member of [CartONG](http://www.cartong.org) 
 * Editor member in [OpenStreetMap](http://openstreetmap.org) , like [during  my trip in Vanuatu](https://www.openstreetmap.org/user/goym@p/history#map=7/-18.698/168.673), my name is [goym@p](https://www.openstreetmap.org/user/goym@p)
 * YoGis record label followable in [SoundCloud](https://soundcloud.com/yogis-record) 
+
+* See all my experiences in [Viadeo](http://fr.viadeo.com/fr/profile/hugo.roussaffa) 
