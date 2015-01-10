@@ -11,7 +11,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
-#THEME = "pure-single"
+THEME = "pure-single"
 # uncomment for pure single theme
 #COVER_IMG_URL - Set the sidebar image.
 #PROFILE_IMG_URL - Set the image for the top circle cutout.
