@@ -10,6 +10,7 @@ My super title
 :summary: Short version for index and feeds
 
 .. youtube:: 37818131
+
 :width: 800
 :height: 500
 :align: center
