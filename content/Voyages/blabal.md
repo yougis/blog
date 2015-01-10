@@ -4,11 +4,8 @@ Category: Voyages
 authors: Hugo Roussaffa, Claire Cousergue
 summary: sommaire
 
-.. youtube:: 37818131
+{% youtube youtube_id [800] [500] %}
 
-:width: 800
-:height: 500
-:align: center
 
 contenu putty down
 
