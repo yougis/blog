@@ -12,11 +12,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
-PLUGINS = [
-    # ...
-    'pelican_youtube',
-    # ...
-]
+PLUGINS = ['pelican_youtube']
 
 #THEME = "pure-single"
 # uncomment for pure single theme
