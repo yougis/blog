@@ -11,6 +11,13 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
+
+PLUGINS = [
+    # ...
+    'pelican_youtube',
+    # ...
+]
+
 #THEME = "pure-single"
 # uncomment for pure single theme
 #COVER_IMG_URL - Set the sidebar image.
