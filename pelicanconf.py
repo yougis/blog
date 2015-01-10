@@ -12,7 +12,9 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
 
-PLUGINS = ['pelican_youtube']
+PLUGINS = ["pelican_youtube",]
+
+LOAD_CONTENT_CACHE = False
 
 #THEME = "pure-single"
 # uncomment for pure single theme
@@ -45,6 +47,5 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
-
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
