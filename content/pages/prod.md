@@ -10,7 +10,7 @@ What we make
 - Music clip
 - Documentary, interviews
 - Presentation of organisation
-- Projects issues
+- Your projects 
 We make this from scratch to the final product (reperage, tournage, montage, diffusion)
 
 The team
