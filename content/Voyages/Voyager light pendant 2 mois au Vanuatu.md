@@ -2,9 +2,9 @@ Title: Voyager light pendant 2 mois au Vanuatu
 Date: 2015-01-01 10:20
 Category: Voyages
 authors: Hugo Roussaffa, Claire Cousergue
-summary:  Aller à la rencontre de la culture Melanesienne du Vanuatu en sac à dos sur l'île de Tanna, d'Espiritu Santos et d'Ambrym est une experience innoubliable.
+summary:  Partir en couple à la rencontre de la culture Melanesienne du Vanuatu en sac à dos sur l'île de Tanna, d'Espiritu Santos et d'Ambrym est une experience innoubliable.
 
-Chacun son sac !
+A son sac !
 =
 Surtout ne pas dépasser 10 kg en équipement par sac et garder de la place pour les repas et l'eau potable (plastic wata).
  
