@@ -48,40 +48,40 @@ Trajets inter-îles
 ==================
 Pour 2 raisons nous avons décidé de passer d'île en île par cargos (Touaraken I, Vanuatu Ferry, Tina 1). 
 
- - C'est deux fois plus économique que par avion (Air Vanuatu et Belair)
- - C'est un excellent moyen de s'imprégner du mode de vie local.
+ * C'est deux fois plus économique que par avion (Air Vanuatu et Belair)
+ * C'est un excellent moyen de s'imprégner du mode de vie local.
  
 D'autre part, il n'y a pas de limite de poids pour les bagages, alors qu'Air Vanuatu limite à 12 kg/personne + 3 kg bagage à mains. Ceci étant nous déconseillons de dépasser ce poids pour les bagages qu'il faudra porter réguillièrement.
 
 Voyager de cette manière demande beaucoup de temps et les imprévus sont à prévoir...
-- Les cargo qui se déplacent plus durant les week end
-- Il faut rester à l'écoute car les dates de passages peuvent évoluer
-- Les arrêts sont fréquents entre deux destinations, de jours comme de nuits
+* Les cargo qui se déplacent plus durant les week end
+* Il faut rester à l'écoute car les dates de passages peuvent évoluer
+* Les arrêts sont fréquents entre deux destinations, de jours comme de nuits
 
 
 De Tanna à Efate (de Lenakel à Port Villa)
 ------------------------------------------
-*Cargo : Touraken I et Touraken II
-*Prix : 5000 Vatu
-*Durée : 30h
-*Rotation : hebdomadaire
+* Cargo : Touraken I et Touraken II
+* Prix : 5000 Vatu
+* Durée : 30h
+* Rotation : hebdomadaire
 
 
 De Efate a Santos (de Port Villa à Luganville)
 ----------------------------------------------
-*Ferries / Cargo: Vanuatu Ferries et Big Sista / Tina 1 *ou* Brisk
-*Prix : 8000 Vatu
-*Durée : 24h
-*Rotation : hebdomadaire
+* Ferries / Cargo: Vanuatu Ferries et Big Sista / Tina 1 *ou* Brisk
+* Prix : 8000 Vatu
+* Durée : 24h
+* Rotation : hebdomadaire
 
 Optons pour le Vanuatu Ferries ou Big Sista pour une traversée d'environ 24h. Ce sont de bons bateaux, confortables, spacieux, rapides.
 
 De Santos à Ambrym (de Luganville à Ranon)
 ------------------------------------------
-*Cargo: Tina 1 *ou* Brisk
-*Prix : 5500 Vatu
-*Durée : 30h
-*Rotation : hebdomadaire
+* Cargo : Tina 1 *ou* Brisk
+* Prix : 5500 Vatu
+* Durée : 30h
+* Rotation : hebdomadaire
 
 Les cargos Tina 1 et Brisk font des rotations hebdomadaires de plus de 48h entre Santo et Port Villa. Ils partent en même temps, l'un de Santo, l'autre de Port Villa. Ils se croisent vers Ambrym. Tina 1 est de loin la plus mauvaise experience en cargo de notre voyage, mais parait-il que Brisk est pire (pas de toit pour les passagers).
 
