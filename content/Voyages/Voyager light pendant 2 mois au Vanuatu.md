@@ -90,7 +90,6 @@ De Ambrym à Efate (de Craig Cove à Port Villa)
 -
 Identique au trajet Santo-Ambrym.
 
-A savoir
--
+###A savoir
 Il se peut que Vanuatu Ferrie effectu une rotation spéciale sur l'île d'Ambrym ou autres. Nous recommandons sans hesitations de prendre ce Ferrie plutôt que les cargos (sécurité, confort, pour un prix à peine plus élevé).
 
