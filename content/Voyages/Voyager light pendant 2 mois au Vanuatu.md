@@ -1,7 +1,7 @@
 Title: Voyager light pendant 2 mois au Vanuatu
 Date: 2015-01-01 10:20
 Category: Voyages
-sidebarimage : /../../images/face_serious.jpg
+sidebarimage: /../../images/face_serious.jpg
 authors: Hugo Roussaffa, Claire Cousergue
 summary: Nous sommes partis en équipe réduite à la rencontre de la culture Mélanesienne du Vanuatu en sac à dos sur l'île de Tanna, d'Espiritu Santo et d'Ambrym. Notre équipement nous a permis de réaliser 2 tournages sur le vif.
 
