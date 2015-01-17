@@ -31,7 +31,7 @@ TAGLINE = 'Geomatic, Image and Sound production'
 #GOOGLE_ANALYTICS - Set the Google Analytics code (eg. "UA-000000-00")
 #PIWIK_URL and PIWIK_SITE_ID - Set the URL and site-id for Piwik tracking. (Without 'http://')
 MENUITEMS = (('About Geomatic', 'pages/about.html'),
-('About IS Prod', 'pages/prod.html'),)
+('About IS Prod', 'pages/prod.html'),('Archives','archives.html's))
 
 STATIC_PATHS = ['images']
 
