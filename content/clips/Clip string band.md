@@ -1,7 +1,7 @@
 Title: Leweton string band
-Date: 2014-01-09 10:00
+Date: 2014-11-24 10:00
 Category: Clips
-Tags: Video
+Tags: Video, Vanuatu
 authors: Hugo Roussaffa, Claire Cousergue
 summary: Le clip de string band du village de Leweton à Espiritu Santo. A ne pas manquer !
 
