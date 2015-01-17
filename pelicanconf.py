@@ -49,7 +49,7 @@ AUTHOR_FEED_RSS = None
 # Social widget
 SOCIAL = (('soundcloud', 'https://soundcloud.com/yogis-record'),
           ('youtube', 'https://www.youtube.com/channel/UCK6L4K87OB9cQMdMZRnz5hg'),
-		  ('map-marker','Shttps://www.openstreetmap.org/user/goym@p'),
+		  ('map-marker','https://www.openstreetmap.org/user/goym@p/history'),
 		  ('github-square','https://github.com/yougis'))
 
 DEFAULT_PAGINATION = 10
