@@ -1,7 +1,4 @@
-title:About
-Project Manager – GIS Administrator and Spatial Analyst
-----------
-
+title: Project Manager – GIS Administrator and Spatial Analyst
 
 ![Alt Text]({face_serious}/../../images/face_serious.jpg)
 

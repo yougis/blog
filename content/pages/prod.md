@@ -1,7 +1,4 @@
-title:Prod
-
-We are Prod
-=
+title: We are Prod
 
 ![Alt Text]({yogis_stamp_black_little}/../../images/yogis_stamp_black_little.jpg)
 
