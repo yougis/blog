@@ -20,11 +20,11 @@ PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
 
 LOAD_CONTENT_CACHE = False
 
-THEME = "pure-single"
+THEME = "pure-single-yo"
 # uncomment for pure single theme
 #COVER_IMG_URL - Set the sidebar image.
 PROFILE_IMG_URL = '/../../images/yogis_stamp_black_little.jpg'
-TAGLINE = geomatic, image and sound production
+TAGLINE = Geomatic, Image and Sound production
 #FAVICON_URL - Set the favicon image
 #DISQUS_SITENAME - Set this to enable disqus comments in articles.
 #DISQUS_ON_PAGES - Set this to True to enable disqus comments in pages.
