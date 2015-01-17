@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Hugo Roussaffa'
+AUTHOR = u'Yo Gis'
 SITENAME = u'Yo Gis'
 SITEURL = 'http://yogis.alwaysdata.net/'
 
@@ -47,7 +47,7 @@ AUTHOR_FEED_RSS = None
 #LINKS = ((,),(,))
 
 # Social widget
-SOCIAL = (('souncloud', 'https://soundcloud.com/yogis-record'),
+SOCIAL = (('soundcloud', 'https://soundcloud.com/yogis-record'),
           ('youtube', 'https://www.youtube.com/channel/UCK6L4K87OB9cQMdMZRnz5hg'),)
 
 DEFAULT_PAGINATION = 10
