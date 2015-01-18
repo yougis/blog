@@ -3,13 +3,13 @@ Date: 2014-11-01 10:00
 Category: Voyages
 Tags: Son
 authors: Hugo Roussaffa, Claire Cousergue
-summary: Le volcan Yasur est l'un des volcans les plus accèssibles au monde mais capturé un tel phenomène n'est pas si aisé.
+summary: Le volcan Yasur est l'un des volcans les plus accÃ¨ssibles au monde mais capturÃ© un tel phenomÃ¨ne n'est pas si aisÃ©.
 
 
 
 Son
 ---
-YoGis record label présente dans [SoundCloud](https://soundcloud.com/yogis-record/yasur-volcano-activity-level-1-explosion-no-wind-16bits) quelques sons des explosions de niveau d'activité 1.
+YoGis record label prÃ©sente dans [SoundCloud](https://soundcloud.com/yogis-record/yasur-volcano-activity-level-1-explosion-no-wind-16bits) quelques sons des explosions de niveau d'activitÃ© 1.
 
 Photo
 -----
