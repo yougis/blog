@@ -9,7 +9,7 @@ summary: Nous sommes partis en équipe réduite à la rencontre de la culture M�
 Les sacs à dos
 ==============
 Un sac de randonnée pas trop grand (50 litres) de 10 kg max et un petit sac (que l'on porte sur le ventre) de 5 kg max.
-Il faut ensuite trouver un rangement logique afin que les manipulations quotidiennes soient pratiques.
+Il faut ensuite trouver un rangement logique afin que les manipulations quotidiennes ne soient pas un calvair.
 
 Equipement (7kg pour 2 personnes)
 ---------------------------------
