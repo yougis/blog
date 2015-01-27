@@ -1,7 +1,7 @@
 Title: Yasur Volcano - activity level 1
 Date: 2014-11-01 10:00
-Category: Voyages
-Tags: Son
+Category: Sound
+Tags: volcano, vanuatu
 authors: Hugo Roussaffa, Claire Cousergue
 sidebarimage: /../../images/yassur.jpg
 summary: Le volcan Yasur est l'un des volcans les plus accèssibles au monde mais capturé un tel phenomène est impossible. Nous avons pourtant essayé !
