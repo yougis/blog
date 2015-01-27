@@ -22,7 +22,7 @@ LOAD_CONTENT_CACHE = False
 
 THEME = "pure-single-yo"
 # uncomment for pure single theme
-COVER_IMG_URL = '/../../images/font.jpg'
+COVER_IMG_URL = '/../../images/font2.jpg'
 PROFILE_IMG_URL = '/../../images/yogis_stamp_black_little.jpg'
 TAGLINE = 'Geomatic, Image & Sound'
 #FAVICON_URL - Set the favicon image

@@ -2,6 +2,7 @@ Title: Bonne année 2014
 Date: 2014-01-09 10:00
 Category: Voyages
 Tags: Video
+sidebarimage: /../../images/font3.jpg
 authors: Hugo Roussaffa, Claire Cousergue
 summary: Nos voeux pour cette année 2014
 
