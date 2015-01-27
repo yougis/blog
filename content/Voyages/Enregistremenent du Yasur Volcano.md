@@ -9,11 +9,7 @@ summary: Le volcan Yasur est l'un des volcans les plus accèssibles au monde mai
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182606020&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-Son
----
-YoGis record label présente dans [SoundCloud](https://soundcloud.com/yogis-record/yasur-volcano-activity-level-1-explosion-no-wind-16bits) quelques sons des explosions de niveau d'activité 1.
-
 Photo
 -----
-La photo est faite par Claire Cousergue
+Claire Cousergue
 
