@@ -3,6 +3,7 @@ Date: 2014-11-01 10:00
 Category: Voyages
 Tags: Son
 authors: Hugo Roussaffa, Claire Cousergue
+sidebarimage: /../../images/yasur.jpg
 summary: Le volcan Yasur est l'un des volcans les plus accèssibles au monde mais capturé un tel phenomène est impossible. Nous avons pourtant essayé !
 
 
