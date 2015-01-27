@@ -1,4 +1,5 @@
 title: Project Manager – GIS Administrator and Spatial Analyst
+sidebarimage: /../../images/face_serious.jpg
 
 ![Alt Text]({face_serious}/../../images/face_serious.jpg)
 
