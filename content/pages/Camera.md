@@ -1,4 +1,4 @@
-title: Cadreuse - Régisseuse - fixeuse
+title: Claire Cousergue - Cadreuse - Régisseuse - fixeuse
 
 #Expériences professionnelles 2007-2014
 
