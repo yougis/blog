@@ -6,16 +6,15 @@ What we make
 ------------
 
 * Music clip
-* Documentary, interviews
-* Presentation of organisation
-* Your projects 
+* Documentary, interview
+* Institutional film 
 
-We make this from scratch to the final production (reperage, tournage, montage, diffusion)
+We make this from scratch to the final product (reperage, tournage, montage, diffusion)
 
 The team
 --------
 
-For any project we are 2 peoples. We could be more if we need.
+we are 2 peoples. We could be more if we need.
 
 * Realisateur, Camera, regie, montage : Claire Cousergue
 * Assistant réalisateur, sound reccording, maps effects : Hugo Roussaffa
@@ -31,5 +30,5 @@ We work light to go everywhere
 Our reference
 -------------
 
-We can help you
----------------
+Let us know how to help you
+---------------------------
