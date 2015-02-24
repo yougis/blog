@@ -58,6 +58,8 @@ SITEMAP = {
     }
 }
 
+PDF_GENERATOR = True
+
 # Blogroll
 #LINKS = ((,),(,))
 
