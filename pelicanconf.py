@@ -17,7 +17,8 @@ PLUGIN_PATHS = ['../pelican-plugins/']
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code',
-           'sitemap',]
+           'sitemap',
+           'pelican_flickrtag',]
 
 LOAD_CONTENT_CACHE = False
 
@@ -58,7 +59,7 @@ SITEMAP = {
     }
 }
 
-PDF_GENERATOR = True
+PDF_GENERATOR = False
 
 # Blogroll
 #LINKS = ((,),(,))

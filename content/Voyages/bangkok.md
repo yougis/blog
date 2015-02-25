@@ -7,3 +7,5 @@ Tags: Bangkok
 summary: article commig soon
 
 work in progress
+
+[flickr:id=16635374785]
