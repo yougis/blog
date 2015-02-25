@@ -18,7 +18,7 @@ PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code',
            'sitemap',
-           'pelican_flickrtag',]
+           'pelican-flickr',]
 
 LOAD_CONTENT_CACHE = False
 
@@ -62,7 +62,8 @@ SITEMAP = {
 PDF_GENERATOR = False
 
 FLICKR_API_KEY = '51b43627304c37e85055ba4235ffe9dd'
-FLICKR_API_SECRET = '5f49bbdfc0b7e732'
+FLICKR_USER = '131609124@N08'
+
 
 # Blogroll
 #LINKS = ((,),(,))
