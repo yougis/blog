@@ -61,6 +61,9 @@ SITEMAP = {
 
 PDF_GENERATOR = False
 
+FLICKR_API_KEY = '51b43627304c37e85055ba4235ffe9dd'
+FLICKR_API_SECRET = '5f49bbdfc0b7e732'
+
 # Blogroll
 #LINKS = ((,),(,))
 
