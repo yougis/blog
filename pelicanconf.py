@@ -37,7 +37,9 @@ MENUITEMS = (('Geomatic', 'pages/project-manager-gis-administrator-and-spatial-a
 
 STATIC_PATHS = ['images']
 
-# Feed generation is usually not desired when developing
+EXTRA_TEMPLATES_PATHS = {'../pelican-themes/flickr/'}
+
+#  generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
@@ -64,6 +66,7 @@ PDF_GENERATOR = False
 FLICKR_API_KEY = '51b43627304c37e85055ba4235ffe9dd'
 FLICKR_API_SECRET = '5f49bbdfc0b7e732'
 FLICKR_USER = '131609124@N08'
+
 
 # Blogroll
 #LINKS = ((,),(,))
