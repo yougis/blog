@@ -37,7 +37,7 @@ MENUITEMS = (('Geomatic', 'pages/project-manager-gis-administrator-and-spatial-a
 
 STATIC_PATHS = ['images']
 
-EXTRA_TEMPLATES_PATHS = {'../pelican-themes/flickr/'}
+EXTRA_TEMPLATES_PATHS = ['../pelican-themes/flickr/',]
 
 #  generation is usually not desired when developing
 FEED_ALL_ATOM = None
