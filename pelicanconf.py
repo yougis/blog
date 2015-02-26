@@ -23,7 +23,10 @@ PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
 LOAD_CONTENT_CACHE = False
 
 THEME = "pure-single-yo"
-# uncomment for pure single theme
+
+TAG_CLOUD_STEPS = 4
+TAG_CLOUD_MAX_ITEMS = 100
+
 COVER_IMG_URL = '/../../images/font2.jpg'
 PROFILE_IMG_URL = '/../../images/yogis_stamp_black_little.jpg'
 TAGLINE = 'Geomatic, Image & Sound'
