@@ -1,10 +1,10 @@
-Title: Leweton String Band album 
-Date: 2014-11-03 10:00
+Title: Leweton string band album 
+Date: 2014-11-24 10:00
 Category: Sound
 Tags: String Band, Vanuatu
-authors: Hugo Roussaffa
-sidebarimage: /../../images/Nixon_Leweton_village_Santo.jpg
-summary: String band are music group band in Vanuatu. With guitars, Ukulele and home made base they make you travel to their Island in South Pacific. Don't whait anymore, travel by them!
+Authors: Hugo Roussaffa
+Sidebarimage: /../../images/Nixon_Leweton_village_Santo.jpg
+Summary: String band are music group band in Vanuatu. With guitars, Ukulele and home made base they make you travel to their Island in South Pacific. Don't whait anymore, travel by them!
 lang: en
 
 They ar the same guy whom made a video clip. 
