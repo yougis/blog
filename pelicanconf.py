@@ -14,7 +14,7 @@ DEFAULT_LANG = u'fr'
 DATE_FORMATS = {
     'en': '%a, %d %b %Y',
     'jp': '%Y-%m-%d(%a)',
-    'fr': '%a, %d %b %Y'}
+    'fr': '%d %m %Y'}
 
 PLUGIN_PATHS = ['../pelican-plugins/']
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
