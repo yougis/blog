@@ -11,18 +11,25 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
-
+DATE_FORMATS = {
+    'en': '%a, %d %b %Y',
+    'jp': '%Y-%m-%d(%a)',
+    'fr': '%a, %d %b %Y'}
 
 PLUGIN_PATHS = ['../pelican-plugins/']
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code',
            'sitemap',
-           'pelican-flickr',]
+           #'pelican-flickr',
+           ]
 
 LOAD_CONTENT_CACHE = False
 
 THEME = "pure-single-yo"
+EXTRA_TEMPLATES_PATHS = ['../pelican-themes/flickr/',]
+
+DEFAULT_LANG = 'fr'
 
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 100
@@ -39,8 +46,6 @@ MENUITEMS = (('Geomatic', 'pages/project-manager-gis-administrator-and-spatial-a
 ('Image Sound Prod', 'pages/we-are-prod.html'),('Claire Cousergue', 'pages/claire-cousergue-cadreuse-regisseuse-fixeuse.html'),('Gallery', 'pages/my-albums.html'),('Archives','archives.html'))
 
 STATIC_PATHS = ['images']
-
-EXTRA_TEMPLATES_PATHS = ['../pelican-themes/flickr/',]
 
 #  generation is usually not desired when developing
 FEED_ALL_ATOM = None
