@@ -8,7 +8,7 @@ SITEURL = 'http://yogis.alwaysdata.net'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = "Europe/Paris"
 
 DEFAULT_LANG = u'fr'
 DATE_FORMATS = {
