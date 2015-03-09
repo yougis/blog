@@ -1,4 +1,4 @@
-Title: Leweton string band clip
+Title: Leweton string band (the clip)
 Date: 2014-11-24 10:00
 Category: Clips
 Tags: String Band, Vanuatu
