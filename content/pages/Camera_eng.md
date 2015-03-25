@@ -35,13 +35,13 @@ TV News, Culturals Shows, Show Uptake, Miss Calédonie...
 * [Wes Meren (Leweton Stringband)](https://www.youtube.com/watch?v=cY-moQQrsLY), Music Video, Vanuatu 
 
 #Location Manager 
-**2012-2014** 
+###**2012-2014** 
 * Festival Femmes Funk, Towanda Prod, New-Caledonia
-**2011** 
+###**2011** 
 * Festival Femmes Funk, Assistant location manager
-**2012** 
+###**2012** 
 * Les Nouveaux Explorateurs, Coverage, One Planet, New-Caledonia
-**2010**
+###**2010**
 * La Fête Foraine, Drama, 2A Prod, Paris
 * City Game, Drama, 2A Prod, Paris
 
@@ -64,7 +64,7 @@ TV News, Culturals Shows, Show Uptake, Miss Calédonie...
 * Adobe Première Pro
 * Adobe Photoshop
 
-**I own**
+###**I own**
 * Canon Eos 5D Mark II 
 * Tripod
 * Sound recorder TASCAM DR-100
