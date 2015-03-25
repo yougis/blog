@@ -72,5 +72,5 @@ contact me by mail : `yogis`@`alwaysdata`.`net`
 * Sound recorder TASCAM DR-100
 
 #Languages
-Mother tongue : French
-English : understand, read and spoke
+* French : Mother tongue
+* English : understand, read and spoke
