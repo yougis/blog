@@ -2,8 +2,11 @@ title: Claire Cousergue * Camerawoman * Location manager
 Tags: Resume, Camerawoman, Location manager
 
 27 years old
+
+----------
 contact me by mail : `yogis`@`alwaysdata`.`net`
 
+----------
 
 #Director, Camerawoman, Editor (2014 - 2015)
 * Kastom in a box, short documentary, Vanuatu. Work in progress...
@@ -48,9 +51,8 @@ contact me by mail : `yogis`@`alwaysdata`.`net`
 * City Game, Drama, 2A Prod, Paris
 
 #Training (2005-2010)
-* 3IS, Trappes, France
-* Camera and Lights 
-* Optional learning : Editing and production 
+* Bordeaux, France (Science section)
+* 3IS, Trappes, France (Major : Camera and Lights. Minor : Editing and production) 
 
 #Expert knowledge of materials
 ##Cameras
