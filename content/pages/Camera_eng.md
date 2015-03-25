@@ -5,10 +5,13 @@ Tags: Resume, Camerawoman, Location manager
 contact me by mail : `yogis`@`alwaysdata`.`net`
 
 
-#Freelance Camerawoman (2010 - 2015)
-##Channel NC 1ère, New-Caledonia
-TV News, Culturals Shows, Show Uptake, Miss Calédonie...
+#Director, Camerawoman, Editor (2014 - 2015)
+* Kastom in a box, short documentary, Vanuatu. Work in progress...
+* [Cemel...er](http://www.youtube.com/watch?v=dGpJGJFoG_k), Teaser, New-Caledonia
+* [Wes Meren (Leweton Stringband)](https://www.youtube.com/watch?v=cY-moQQrsLY), Music Video, Vanuatu
 
+
+#Freelance Camerawoman (2010 - 2015)
 ##Music Video 
 * [Snow White (DJSE)](http://www.youtube.com/watch?v=M4ldouk-maA), 120 prod , New-Caledonia
 * Juste une autre vie (Jean-Luc Leroux), 120 prod, New-Caledonia 
@@ -17,22 +20,24 @@ TV News, Culturals Shows, Show Uptake, Miss Calédonie...
 
 ##Documentary, Television coverage 
 * [HIPHOP-NC](http://www.youtube.com/watch?v=HLOhTMuEsT4), 120 Prod, New-Caledonia
-* Rétrospective des jeux du Pacifique 2011, NC 1ére, New-Caledonia
+* Rétrospective des jeux du Pacifique 2011, Imag'in Prod, New-Caledonia
 
 ##Dramas 
 * [TRAUMA](https://vimeo.com/30382704), Self-produced, New-Caledonia
 * Parkours, Self-produced, New-Caledonia
 * La mécanique des vagues, 3IS Prod, France
 
+## TV Channel NC 1ère, New-Caledonia
+* News (noon and evening)
+* Culturals shows (faut qu'on se parle, le jour du seignuer, le bateau rigolo)
+* Reality TV (Top chef)
+* Show uptake (Miss Calédonie, music events)
+
 ##Advertisement, Corporates Films 
 * Yop, White Rabbit, New-Caledonia
 * BTP NC, White Rabbit, New-Caledonia
 * OPT, Imag'in Prod, New-Caledonia
 
-#Director, Camerawoman, Editor (2014 - 2015)
-* Kastom in a box, short documentary, Vanuatu. Work in progress...
-* [Cemel...er](http://www.youtube.com/watch?v=dGpJGJFoG_k), Teaser, New-Caledonia
-* [Wes Meren (Leweton Stringband)](https://www.youtube.com/watch?v=cY-moQQrsLY), Music Video, Vanuatu
 
 #Location Manager (2010 - 2014)
 ##Events
