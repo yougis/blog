@@ -34,24 +34,24 @@ TV News, Culturals Shows, Show Uptake, Miss Calédonie...
 * [Cemel...er](http://www.youtube.com/watch?v=dGpJGJFoG_k), Teaser, New-Caledonia
 * [Wes Meren (Leweton Stringband)](https://www.youtube.com/watch?v=cY-moQQrsLY), Music Video, Vanuatu 
 
-###Location Manager 
+#Location Manager 
 **2012-2014** 
-Festival Femmes Funk, Towanda Prod, New-Caledonia
+* Festival Femmes Funk, Towanda Prod, New-Caledonia
 **2011** 
-Festival Femmes Funk, Assistant location manager (2011)
+* Festival Femmes Funk, Assistant location manager
 **2012** 
-Les Nouveaux Explorateurs, Coverage, One Planet, New-Caledonia
-**2010 **
+* Les Nouveaux Explorateurs, Coverage, One Planet, New-Caledonia
+**2010**
 * La Fête Foraine, Drama, 2A Prod, Paris
 * City Game, Drama, 2A Prod, Paris
 
-###Training **2005-2010**
+#Training **2005-2010**
 * 3IS, Trappes, France
 * Camera and Lights 
 * Optional learning : Editing and production 
 
-###Expert knowledge of materials
-##Cameras
+##Expert knowledge of materials
+###Cameras
 * SONY EX3
 * EX1
 * PDW 335
@@ -59,7 +59,7 @@ Les Nouveaux Explorateurs, Coverage, One Planet, New-Caledonia
 * PD 150 & 170 & 200
 * ARRI BL 4S
 
-##Software
+###Software
 * Final Cut Pro
 * Adobe Première Pro
 * Adobe Photoshop
