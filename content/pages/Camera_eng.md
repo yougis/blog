@@ -51,7 +51,7 @@ contact me by mail : `yogis`@`alwaysdata`.`net`
 * City Game, Drama, 2A Prod, Paris
 
 #Training (2005-2010)
-* Bordeaux, France (Science section)
+* High school diploma in siences, Bordeaux, France
 * 3IS, Trappes, France (Major : Camera and Lights. Minor : Editing and production) 
 
 #Expert knowledge of materials
