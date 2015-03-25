@@ -10,13 +10,13 @@ contact me by mail : `yogis`@`alwaysdata`.`net`
 TV News, Culturals Shows, Show Uptake, Miss Calédonie...
 
 ##Music Video 
-* [Snow White (DJSE)](www.youtube.com/watch?v=M4ldouk-maA), 120 prod , New-Caledonia
+* [Snow White (DJSE)](http://www.youtube.com/watch?v=M4ldouk-maA), 120 prod , New-Caledonia
 * Juste une autre vie (Jean-Luc Leroux), 120 prod, New-Caledonia 
 * Femme Fatale (Domino), 120 prod, New-Caledonia
 * Notre histoire (Joséphine), 120 prod, New-Caledonia
 
 ##Documentary, Television coverage 
-* [HIPHOP-NC](www.youtube.com/watch?v=HLOhTMuEsT4), 120 Prod, New-Caledonia
+* [HIPHOP-NC](http://www.youtube.com/watch?v=HLOhTMuEsT4), 120 Prod, New-Caledonia
 * Rétrospective des jeux du Pacifique 2011, NC 1ére, New-Caledonia
 
 ##Dramas 
@@ -31,7 +31,7 @@ TV News, Culturals Shows, Show Uptake, Miss Calédonie...
 
 ##Director, Camerawoman, Editor (2014-2015)
 * Kastom in a box, short documentary, Vanuatu, Work in progress
-* [Cemel...er](www.youtube.com/watch?v=dGpJGJFoG_k), Teaser, New-Caledonia
+* [Cemel...er](http://www.youtube.com/watch?v=dGpJGJFoG_k), Teaser, New-Caledonia
 * [Wes Meren (Leweton Stringband)](https://www.youtube.com/watch?v=cY-moQQrsLY), Music Video, Vanuatu 
 
 ###Location Manager 

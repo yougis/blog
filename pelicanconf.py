@@ -43,7 +43,7 @@ DISQUS_ON_PAGES = True
 #GOOGLE_ANALYTICS - Set the Google Analytics code (eg. "UA-000000-00")
 #PIWIK_URL and PIWIK_SITE_ID - Set the URL and site-id for Piwik tracking. (Without 'http://')
 MENUITEMS = (('Geomatic', 'pages/project-manager-gis-administrator-and-spatial-analyst.html'),
-('Image Sound Prod', 'pages/we-are-prod.html'),('Claire Cousergue', 'pages/claire-cousergue-Camerawoman-Location-manager.html'),('Gallery', 'pages/my-albums.html'),('Archives','archives.html'))
+('Image Sound Prod', 'pages/we-are-prod.html'),('Claire Cousergue', 'pages/claire-cousergue-camerawoman-location-manager.html'),('Gallery', 'pages/my-albums.html'),('Archives','archives.html'))
 
 STATIC_PATHS = ['images']
 
