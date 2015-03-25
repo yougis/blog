@@ -5,7 +5,7 @@ Tags: Resume, Camerawoman, Location manager
 contact me by mail : `yogis`@`alwaysdata`.`net`
 
 
-#Freelance Camerawoman 2010-2015
+#Freelance Camerawoman (2010 - 2015)
 ##Channel NC 1ère, New-Caledonia
 TV News, Culturals Shows, Show Uptake, Miss Calédonie...
 
@@ -29,29 +29,26 @@ TV News, Culturals Shows, Show Uptake, Miss Calédonie...
 * BTP NC, White Rabbit, New-Caledonia
 * OPT, Imag'in Prod, New-Caledonia
 
-##Director, Camerawoman, Editor (2014-2015)
-* Kastom in a box, short documentary, Vanuatu, Work in progress
+#Director, Camerawoman, Editor (2014 - 2015)
+* Kastom in a box, short documentary, Vanuatu. Work in progress...
 * [Cemel...er](http://www.youtube.com/watch?v=dGpJGJFoG_k), Teaser, New-Caledonia
-* [Wes Meren (Leweton Stringband)](https://www.youtube.com/watch?v=cY-moQQrsLY), Music Video, Vanuatu 
+* [Wes Meren (Leweton Stringband)](https://www.youtube.com/watch?v=cY-moQQrsLY), Music Video, Vanuatu
 
-#Location Manager 
-###**2012-2014** 
-* Festival Femmes Funk, Towanda Prod, New-Caledonia
-###**2011** 
-* Festival Femmes Funk, Assistant location manager
-###**2012** 
+#Location Manager (2010 - 2014)
+##Events
+* Festival Femmes Funk, Towanda Prod, New-Caledonia (4 events)
+##Movies
 * Les Nouveaux Explorateurs, Coverage, One Planet, New-Caledonia
-###**2010**
 * La Fête Foraine, Drama, 2A Prod, Paris
 * City Game, Drama, 2A Prod, Paris
 
-#Training **2005-2010**
+#Training (2005-2010)
 * 3IS, Trappes, France
 * Camera and Lights 
 * Optional learning : Editing and production 
 
-##Expert knowledge of materials
-###Cameras
+#Expert knowledge of materials
+##Cameras
 * SONY EX3
 * EX1
 * PDW 335
@@ -59,16 +56,16 @@ TV News, Culturals Shows, Show Uptake, Miss Calédonie...
 * PD 150 & 170 & 200
 * ARRI BL 4S
 
-###Software
+##Software
 * Final Cut Pro
 * Adobe Première Pro
 * Adobe Photoshop
 
-###**I own**
+##**I own**
 * Canon Eos 5D Mark II 
 * Tripod
 * Sound recorder TASCAM DR-100
 
-###Languages
+#Languages
 Mother tongue : French
 English : understand, read and spoke
