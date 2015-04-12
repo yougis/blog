@@ -6,6 +6,6 @@ Authors: Hugo Roussaffa, Claire Cousergue
 Tags: Bangkok
 Lang: en
 Summary: article commig soon
-draft: true
+Status: draft
 
 work in progress
