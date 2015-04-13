@@ -1,7 +1,7 @@
 Title: Street music à Rangoon
 Date: 2015-03-10 20:00
 Category: Clips
-Tags: Street clip, Birmanie
+Tags: Street, Asia
 Authors: Hugo Roussaffa, Claire Cousergue
 Sidebarimage: /../../images/yangon_street.jpg
 Summary: Street clip Rangoon Birmanie. Dépaysement assuré !
