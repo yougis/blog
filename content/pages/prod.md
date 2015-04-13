@@ -19,10 +19,10 @@ we are 2 peoples. We could be more if we need.
 * Realisateur, Camera, regie, montage : Claire Cousergue
 * Assistant réalisateur, sound reccording, maps effects : Hugo Roussaffa
 
-Our materials
+Our materials : we work light to go everywhere
 -------------
 
-We work light to go everywhere
+
 * Canon 5D with many lens
 * Sound recorder with severals microphones
 * Laptop
