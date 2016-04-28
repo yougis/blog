@@ -3,7 +3,7 @@ Date: 2016-04-16 10:00
 Category: Sound
 Tags: Street, Drum
 Authors: Hugo Roussaffa
-Sidebarimage: /../../images/pavement_bangerz.jpg
+Sidebarimage: /../../images/Pavementbangerz.JPG
 Summary: 
 lang: fr
 
