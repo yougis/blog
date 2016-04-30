@@ -1,7 +1,7 @@
 Title: Street's sound in Asia (album) 
 Date: 2015-04-06 10:00
 Category: Sound
-Tags: Street, Asia
+Tags: Street Drummer, Asia, Myanmar
 Authors: Hugo Roussaffa
 Sidebarimage: /../../images/yangon_street.jpg
 Summary: Listent the street reccords in Asia (Yangon, Bangkok and else), travel for free !
