@@ -9,5 +9,7 @@ lang: fr
 
 ![Alt Text]({map_drone}/../../images/MAP_Drone_capture_ecran.jpg)
 
+Nombre de droniste situé à moins de 40 km
+![Alt Text]({legende_map_drone}/../../images/legende_MAP_Drone_capture_ecran.jpg)
 ----------
 
