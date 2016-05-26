@@ -4,7 +4,7 @@ Category: Sound
 Tags: Street Drummer
 Authors: Hugo Roussaffa
 Sidebarimage: /../../images/Pavementbangerz.JPG
-Summary: Duo de 2 percussionnistes, ils viennent de Tours, ils tappent sur tous ce qui ne bouge plus et ça sonne vraiment bien !
+Summary: Duo de percussionnistes, ils viennent de Tours, ils tappent sur tout ce qui ne bouge plus et ça sonne vraiment bien !
 lang: fr
 
 Duo de 2 percussionnistes, ils viennent de Tours, ils tappent sur tous ce qui ne bouge plus et ça sonne vraiment bien !
