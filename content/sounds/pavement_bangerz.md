@@ -1,7 +1,7 @@
 Title: Street druming : Pavement Bangerz
 Date: 2016-04-16 10:00
 Category: Sound
-Tags: Street Drummer
+Tags: Street Drummer, France, spectacle
 Authors: Hugo Roussaffa
 Sidebarimage: /../../images/Pavementbangerz.JPG
 Summary: Duo de percussionnistes, ils viennent de Tours, ils tappent sur tout ce qui ne bouge plus et ça sonne vraiment bien !
